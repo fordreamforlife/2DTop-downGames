@@ -1,5 +1,5 @@
-# 2DTop-downGames06素材
-【Unity 2D游戏开发教程】第6课：拾取物品
+# 2DTop-downGames06
+【Unity 2D游戏开发教程】第6课：拾取物品 素材
 或者
 百度网盘：
 链接：https://pan.baidu.com/s/1uvXxPBUmWBqbalZJTnaDfQ?pwd=xlin 
